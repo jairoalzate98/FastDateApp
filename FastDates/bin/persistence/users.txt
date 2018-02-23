@@ -1,0 +1,6 @@
+florez,florez,false,true,false,D:\Imagenes\Imagenes\8EE.jpg
+jairo,jairo,true,false,true,D:\Imagenes\Imagenes\2017-07-03 14.56.22.png
+pinto,pinto,false,false,true,D:\Imagenes\Imagenes\2017-12-08 07.28.47.jpg
+ceclilia,cecilia,true,false,false,D:\Imagenes\Imagenes\4125015.jpg
+jose,jose,false,true,true,D:\Imagenes\Imagenes\cuando-ella-se-cree-gamer-solo-porque-ha-jugado-con-tu-corazon-BxqOd.jpg
+jaja,jaja,true,true,true,D:\Imagenes\Imagenes\cuando-eres-feo-y-no-necesitas-disfraz-y-decian-que-nunca-iba-a-servir-para-nada-vlC9K.jpg
